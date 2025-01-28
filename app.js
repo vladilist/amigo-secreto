@@ -4,8 +4,7 @@ function print(parametro){
     console.log(parametro)
 }
 
-print()
-entro
+
 let listaAmigos = [];
 let nombresAmigos = "";
 let agregandoAmigos = true;
